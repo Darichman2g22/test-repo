@@ -1,5 +1,5 @@
 # test-repo
-Yesterday i learn about branching and checking out
+Yesterday i learned about branching and checking out
 To branch: "git branch -a"
 To checkout: "git checkout with the branch name"
 Today, I learn about adding, commiting, and merging multiple files
