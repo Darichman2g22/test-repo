@@ -7,3 +7,6 @@ To add multiple files: git add -A;
 To commit multiple files:git commit -a -m "multiple messages";
 To merge files: git merge plus branch name;
 Finally, i learned about "git log": a record of all your messages stored or commited; 
+ssh-keygen plus link
+ssh -T
+git push origin first branch
