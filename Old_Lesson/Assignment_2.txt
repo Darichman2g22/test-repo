@@ -6,5 +6,5 @@ Yesterday i learned about branching and checking out; To branch: "git branch -a"
 
 Today is much better than yesterday... i am thankful. Thanks for the video teaching.
 
-
+What is it about git installation and setup you do not know?
 
